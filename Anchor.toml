@@ -5,6 +5,9 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
+game_sessions = "HfMV3T1CGFGTC4eJUhDfZUrigXQMWmVxFCxTdnSGemt7"
+marketplace = "6ajpuB3vzhC8kUWfysmiTe8bqN2DnAYiwz6rUMWoFPjR"
+nft = "31AsjBvWTL93SSjVEHM8p3JqvuwiRuTh8P9grM7Tzs8L"
 solana_loot_program = "B1WrZv1rwvX38iCXKsW2Eh98G2oySWzfBssG9XjVhN1V"
 
 [registry]
